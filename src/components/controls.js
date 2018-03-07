@@ -33,7 +33,7 @@ class Controls extends Component {
           href="#"
           onClick={this.handleButton}
         >
-          {this.props.text || (user ? "Log out" : "Log in")}
+          {this.props.text || (user ? "Log out" : "Log in for CLOUDWAN4")}
         </a>
       );
     }
@@ -77,7 +77,7 @@ class Controls extends Component {
             href="#"
             onClick={this.handleLogin}
           >
-            Log in
+            Log in for CLOUDWAN1
           </a>
         </li>
       </ul>

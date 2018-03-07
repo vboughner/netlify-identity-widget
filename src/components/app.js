@@ -11,7 +11,7 @@ const pagesWithHeader = { login: true, signup: true };
 const pages = {
   login: {
     login: true,
-    button: "Log in",
+    button: "Log in for CLOUDWAN3",
     button_saving: "Logging in",
     email: true,
     password: true,
